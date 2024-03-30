@@ -1,6 +1,8 @@
 # Hi there 👋
 
-
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgyZzhzdGNzdWpmdjhtdWJpNHZrajNxZzlicWljcTJxZGdtejF5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif" width="600" height="300"/>
+</div>
 
 #### Welcome to my world 🙋‍♀️
 - I’m currently working on something exciting 💻😜
@@ -9,7 +11,7 @@
 Thanks for visting 
 🤟😄
 
-# 🧰 Languages and Tools:
+## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
