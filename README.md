@@ -4,7 +4,8 @@
 I’m currently working on something exciting 💻😜
 - 📫 How to reach me: srujanashetty434@gmail.com
 
-
+Thanks for visting 
+🤟🙋‍♀️
 <!--
 **Srijana-Shetty/Srijana-Shetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
