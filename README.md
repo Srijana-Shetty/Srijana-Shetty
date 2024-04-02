@@ -27,6 +27,7 @@ Thanks for visting
 # 📊 GitHub Stats:
 
 <div align="center">
+<div align="center">
 <a href="https://github.com/Srijana-Shetty">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srijana-Shetty&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srijana-Shetty&theme=2077" height="180em" />
