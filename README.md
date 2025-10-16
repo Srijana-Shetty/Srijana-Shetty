@@ -9,7 +9,8 @@
 </div>
 
 # 💫 About Me:
-- I’m currently working on something exciting 💻😜
+- Enthusiastic about ML, LLMs, and cutting-edge AI innovations. 💻
+- 
 - 📫 How to reach me: srujanashetty434@gmail.com
 
 Thanks for visting 
