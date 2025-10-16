@@ -19,7 +19,7 @@ Thanks for visting
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijana-shetty-370a3421a/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/srujana_shetty_05_?igsh=aDVtZnB4NXd1dnBs)
 
 
  # 💻 Tech Stack:
