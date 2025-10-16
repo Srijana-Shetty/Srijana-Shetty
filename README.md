@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 - Enthusiastic about ML, LLMs, and cutting-edge AI innovations. 💻
-- 
+- Aspiring Data Scientist exploring data analysis, visualization, and machine learning.
 - 📫 How to reach me: srujanashetty434@gmail.com
 
 Thanks for visting 
