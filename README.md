@@ -17,6 +17,8 @@ Thanks for visting
 🤟😄
 
 
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijana-shetty-370a3421a/)
 
 
 
