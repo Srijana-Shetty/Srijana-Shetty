@@ -11,7 +11,7 @@
 # 💫 About Me:
 - Enthusiastic about ML, LLMs, and cutting-edge AI innovations. 💻
 - Aspiring Data Scientist exploring data analysis, visualization, and machine learning.
-- 📫 How to reach me: srujanashetty434@gmail.com
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)📫 How to reach me: srujanashetty434@gmail.com
 
 Thanks for visting 
 🤟😄
@@ -19,7 +19,6 @@ Thanks for visting
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijana-shetty-370a3421a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=srujanashetty434@gmail.com)
 
 
  # 💻 Tech Stack:
