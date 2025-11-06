@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="200px" max-width="200px" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="50px" max-width="50px" width="50px" align="right">
 <br>
 
 </div>
