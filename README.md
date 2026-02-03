@@ -30,14 +30,19 @@ Thanks for visting
 
 ## 📊 Statistics
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srijana-Shetty&theme=2077)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srijana-Shetty&theme=2077)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srijana-Shetty&theme=2077" width="300"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srijana-Shetty&theme=2077" width="300"/>
+</p>
 
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srijana-Shetty&theme=2077)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srijana-Shetty&theme=2077)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srijana-Shetty&theme=2077" width="300"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srijana-Shetty&theme=2077" width="300"/>
+</p>
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijana-Shetty&theme=2077)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijana-Shetty&theme=2077" width="300"/>
+</p>
 
 
 
