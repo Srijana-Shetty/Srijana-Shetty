@@ -28,16 +28,21 @@ Thanks for visting
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+# 📊 GitHub Stats:
+
+
 <div align="center">
-
-### 📊 Statistics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Srijana-Shetty&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijana-Shetty&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srijana-Shetty&theme=synthwave&hide_border=true&background=0d1117)
-
+  <a href="https://github.com/Srijana-Shetty">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srijana-Shetty&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srijana-Shetty&theme=2077" height="180em" />
+     <br><br>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srijana-Shetty&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srijana-Shetty&theme=2077" height="180em" />
+  </a></div>
+  <div align="center">
+  <a href="https://github.com/Srijana-Shetty"><br>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijana-Shetty&theme=2077" height="180em" />
+  </a>
 </div>
 
 
