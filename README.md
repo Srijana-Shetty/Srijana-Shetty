@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+To+My+World!+🙋‍♀️)](https://git.io/typing-svg)
+in[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+To+My+World!+🙋‍♀️)](https://git.io/typing-svg)
 
 
 #  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there, I'm Srijana
@@ -31,17 +31,17 @@ Thanks for visting
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srijana-Shetty&theme=2077" width="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srijana-Shetty&theme=2077" width="300" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srijana-Shetty&theme=2077" width="300" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srijana-Shetty&theme=2077" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srijana-Shetty&theme=2077" width="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srijana-Shetty&theme=2077" width="300" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srijana-Shetty&theme=2077" width="300" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srijana-Shetty&theme=2077" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijana-Shetty&theme=2077" width="300" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijana-Shetty&theme=2077" width="300" />
 </p>
 
 
