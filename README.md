@@ -28,20 +28,13 @@ Thanks for visting
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<div align="center">
+## 📈 GitHub Stats
 
-## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srijana-Shetty&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Srijana-Shetty&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijana-Shetty&layout=compact&theme=radical" height="180em" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijana-Shetty&layout=compact&theme=tokyonight)
 
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srijana-Shetty&theme=radical)](https://git.io/streak-stats)
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srijana-Shetty&theme=tokyonight)
 
 
 
