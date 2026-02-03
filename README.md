@@ -31,38 +31,21 @@ Thanks for visting
 # 📊 GitHub Stats:
 
 <div align="center">
-  
-<!-- GitHub Stats using github-readme-stats (Most reliable service) -->
-<a href="https://github.com/Srijana-Shetty">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srijana-Shetty&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijana-Shetty&layout=compact&theme=radical&hide_border=false&border_radius=10&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
-</a>
-
-<br/><br/>
-
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/Srijana-Shetty">
-  <img src="https://streak-stats.demolab.com?user=Srijana-Shetty&theme=radical&hide_border=false&border_radius=10&background=0D1117&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-</a>
-
-<br/><br/>
-
-<!-- Contribution Graph -->
-<a href="https://github.com/Srijana-Shetty">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srijana-Shetty&theme=github-dark&hide_border=false&border_radius=10&bg_color=0D1117&color=58a6ff&line=1f6feb&point=f85149&area=true&area_color=1f6feb" alt="Contribution Graph"/>
-</a>
-
+  <a href="https://github.com/Srijana-Shetty">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srijana-Shetty&theme=2077" height="180em" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srijana-Shetty&theme=2077" height="180em" />
+    <br><br>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srijana-Shetty&theme=2077" height="180em" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srijana-Shetty&theme=2077" height="180em" />
+  </a>
 </div>
-
----
 
 <div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Srijana-Shetty&theme=radical&no-frame=true&no-bg=false&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-
+  <a href="https://github.com/Srijana-Shetty"><br>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srijana-Shetty&theme=2077" height="180em" />
+  </a>
 </div>
+
 
 
 
