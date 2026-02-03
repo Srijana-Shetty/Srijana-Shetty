@@ -49,16 +49,7 @@ Thanks for visting
 
 <br>
 
-<div align="center">
-  <a href="https://badgecheck.io?url=https://api.badgr.io/public/assertions/XKaKJ5UgTSyZEarpEC4dGQ">
-    <img src="https://api.badgr.io/public/assertions/XKaKJ5UgTSyZEarpEC4dGQ/image" width="120" />
-  </a>
-  <p><strong>Postman API Fundamentals Student Expert</strong><br>
-     Awarded: Jul 26, 2023
-  </p>
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
